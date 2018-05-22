@@ -1,3 +1,4 @@
-# whitepaper
+# ARAW Whitepaper
 
-This ARAW token white paper mainly focus on the core concept of the ARAW Token Ecosystem.
+This ARAW token whitepaper mainly focus on the core concept of the ARAW Token Ecosystem.
+
